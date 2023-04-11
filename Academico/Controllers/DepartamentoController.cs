@@ -10,12 +10,12 @@ namespace Academico.Controllers
             new Departamento
             {
                 DepartamentoId=1,
-                Nome = "Hogwarts",
+                Nome = "Laboratório de TI",
             },
             new Departamento
             {
                 DepartamentoId=2,
-                Nome = "Mansão X",
+                Nome = "Central de Estágio",
             }
         };
         public IActionResult Index()
